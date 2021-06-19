@@ -24,11 +24,29 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.navbar-icon{
+    color: white;
+}
+.navbar-brand img{
+    width: 60%;
+    height: auto;
+}
 .navbar{
     padding: 1% 10%;
     background-color: rgba(0,0,0,0.3);
 }
 .banner-container{
     height: 100vh;
+}
+.nav-link{
+    color: white !important;
+    margin: 10px;
+    border-radius: 5px;
+    transition: .4s;
+}
+.nav-link:hover{
+    background-color: #2980b9;
+    color: white !important;
+    transform: scale(1.1);
 }
 /* heaedr end */
