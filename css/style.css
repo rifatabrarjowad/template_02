@@ -57,3 +57,26 @@ header{
     border-radius: 5px;
 }
 /* heaedr end */
+/* features start */
+#features{
+    padding: 5% 10%;
+    background-color: #e8ded2;
+}
+.features-col{
+    border: 1px solid #ff02c0;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 20px 0px;
+    transition: .4s;
+}
+.features-col:hover{
+   transform: scale(1.1);
+   box-shadow: 2px 6px 5px black;
+}
+.icon-style{
+    background-color: #bb0aac;
+    color: white;
+    padding: 15px;
+    margin: 5px 0;
+}
+/* features end */
