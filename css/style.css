@@ -80,3 +80,12 @@ header{
     margin: 5px 0;
 }
 /* features end */
+.hr-style{
+    border: 5px dotted white;
+    border-bottom: none;
+    width: 50px;
+}
+.section-titel h3{
+    font-weight: bolder;
+    margin-bottom: 0;
+}
